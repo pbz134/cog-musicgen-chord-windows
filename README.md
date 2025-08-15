@@ -16,5 +16,5 @@ TO DO:
 - Create requirements.txt
 
 Usage:
-- python predict.py --prompt "Relaxing piano" --chords "C G Am F" --bpm 80
-- python predict.py --prompt "Epic soundtrack" --chords "C Em F G" --bpm 140 --duration 20 --output mp3 --model stereo-chord-large --seed 42
+`python predict.py --prompt "Relaxing piano" --chords "C G Am F" --bpm 80`
+`python predict.py --prompt "Epic soundtrack" --chords "C Em F G" --bpm 140 --duration 20 --output mp3 --model stereo-chord-large --seed 42`
